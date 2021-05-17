@@ -1,5 +1,7 @@
 # memedeck
-Easily upload and share your favourite memes on Memedeck, a social media app built with MERN (MongoDB, Express, React, Node.js) stack! No authentication required
+Easily upload and share your favourite memes on Memedeck, a single-page responsive social media app built with MERN (MongoDB, Express, React, Node.js) stack! No authentication required
+
+![](client/public/memedeck-ss.png)
 
 Setup:
 
