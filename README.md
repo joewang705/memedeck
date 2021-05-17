@@ -3,4 +3,4 @@ Easily upload and share your favourite memes on Memedeck, a social media app bui
 
 Setup:
 
-run npm i && npm start for both client and server side to start the app
+run `npm i && npm start` for both client and server side to start the app
